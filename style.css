@@ -1,0 +1,26 @@
+h1{
+    color: black;
+    margin-top: 50px;
+}
+*{
+    border: solid;
+    border-color:ghostwhite;
+}
+
+.header *{
+    border: solid;
+    }
+    body{
+        background-color:pink;
+        
+    
+    }
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .footer{
+        display: flex;
+        justify-content: flex-end;
+    }
